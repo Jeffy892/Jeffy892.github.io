@@ -272,7 +272,7 @@ a:before, a:after {
 }
 #about {
 	/*background: #bfbfbf;*/
-	background-color: rgba(179, 179, 179, 0.7);
+	background-color: rgba(179, 179, 179, 0.5);
 	padding-top: 80px;
 	padding-right: 0;
 	padding-left: 0;
