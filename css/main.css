@@ -271,12 +271,12 @@ a:before, a:after {
 	border: 1px solid #fff;
 }
 #about {
-	background: #bfbfbf;
+	/*background: #bfbfbf;*/
+	background-color: rgba(179, 179, 179, 0.7);
 	padding-top: 80px;
 	padding-right: 0;
 	padding-left: 0;
 	padding-bottom: 60px;
-	opacity: 0.70;
 }
 #about img {
 	margin-top: 0;
