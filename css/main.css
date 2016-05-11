@@ -271,8 +271,7 @@ a:before, a:after {
 	border: 1px solid #fff;
 }
 #about {
-	/*background: #bfbfbf;*/
-	background-color: rgba(179,179,179,0.3);
+	background: #bfbfbf;
 	padding-top: 80px;
 	padding-right: 0;
 	padding-left: 0;
