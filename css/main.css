@@ -276,7 +276,7 @@ a:before, a:after {
 	padding-right: 0;
 	padding-left: 0;
 	padding-bottom: 60px;
-	opacity: 75%;
+	opacity: 0.70;
 }
 #about img {
 	margin-top: 0;
