@@ -223,7 +223,7 @@ a:before, a:after {
 
 #headerwrap {
 /*	background: url(../img/header_bg.jpg) no-repeat center top;*/
-	background: url(../img/spacewall.jpg) no-repeat center top;
+	background: url(../img/spacewall4.jpg) no-repeat center top;
 	padding-top: 200px;
 	text-align: center;
 	background-attachment: relative;
@@ -282,7 +282,7 @@ a:before, a:after {
 }
 #services {
 	/*background: url(../img/bg.jpg) no-repeat center center fixed;*/
-	background: url(../img/spacewall.jpg) no-repeat center center fixed;
+	background: url(../img/spacewall3.jpg) no-repeat center center fixed;
 	padding: 60px 0;
 	text-align: center;
 	background-size: cover;
@@ -317,7 +317,7 @@ a:before, a:after {
 }
 #team {
 /*	background: url(../img/bg.jpg) no-repeat center center fixed;*/
-	background: url(../img/spacewall.jpg) no-repeat center center fixed;
+	background: url(../img/spacewall2.jpg) no-repeat center center fixed;
 	padding: 60px 0;
 	text-align: center;
 	background-size: cover;
